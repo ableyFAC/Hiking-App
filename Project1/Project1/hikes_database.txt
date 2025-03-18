@@ -1,0 +1,14 @@
+Alaska Kenai 9 m 6399.0
+Virginia Shenandoah 4 s 2199.0
+Utah Bryce 2 m 799.0
+Arizona Sedona 4 e 2099.0
+Montana Glacier 5 s 3990.0
+Maine Acadia 4 e 3048.0
+Washington Olympic 3 e 1399.0
+California Yosemite 6 m 3099.0
+California Redwood 2 e 245.0
+Wyoming Yellowstone 6 m 3499.0
+Georgia Savannah 5 e 3448.0
+Utah Arches 3 m 1499.0
+Minnesota Voyageurs 4 m 2999.0
+Utah Zion 3 s 1599.0
